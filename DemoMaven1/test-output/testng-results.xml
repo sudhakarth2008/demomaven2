@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-26T02:17:36Z" name="Default suite" finished-at="2019-04-26T02:18:34Z" duration-ms="58402">
+    <groups>
+    </groups>
+    <test started-at="2019-04-26T02:17:36Z" name="Default test" finished-at="2019-04-26T02:18:34Z" duration-ms="58402">
+      <class name="Jyothi.Facebook">
+        <test-method is-config="true" signature="setBaseURL()[pri:0, instance:Jyothi.Facebook@327b636c]" started-at="2019-04-26T02:17:36Z" name="setBaseURL" finished-at="2019-04-26T02:18:09Z" duration-ms="33350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseURL -->
+        <test-method signature="Login()[pri:0, instance:Jyothi.Facebook@327b636c]" started-at="2019-04-26T02:18:09Z" name="Login" finished-at="2019-04-26T02:18:33Z" duration-ms="23851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="chromebrowserclosed()[pri:0, instance:Jyothi.Facebook@327b636c]" started-at="2019-04-26T02:18:33Z" name="chromebrowserclosed" finished-at="2019-04-26T02:18:34Z" duration-ms="1058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromebrowserclosed -->
+      </class> <!-- Jyothi.Facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
